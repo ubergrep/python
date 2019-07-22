@@ -1,0 +1,45 @@
+=================================
+
+logged_in = False
+
+if not logged_in:
+    print('Please log in')
+else:
+    print('Welcome') 
+
+==================================
+
+
+** False Values:
+
+# False
+# None
+# Zero to any numeric type
+
+
+==================================
+# False
+
+condition = False
+
+if condition:
+	print('Evaluated to True')
+else
+	print('Evaluated to False')
+
+# This would evaluate to False
+==================================
+
+
+==================================
+# None
+
+condition = None
+
+if condition:
+	print('Evaluated to True')
+else
+	print('Evaluated to False')
+
+# This would evaluate to False also
+==================================
